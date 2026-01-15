@@ -314,3 +314,77 @@ As Canada looks toward the next half-century, the data suggests that the "busine
 | 2025 | $682,219 | ~4-5% | $1,550 | Supply Crisis / Population Shock |
 
 *(Sources: Aggregated from multiple historical records)*
+
+## Sources:
+
+
+publications.gc.ca
+Consumer Price Index (CPI) The Consumer Price Index for Canada rose 0.5% to 179.8 in April from 178.9 in March, extending the tr
+Opens in a new window
+
+talloakcapitaladvisors.com
+Is Canada'S Housing Market The Least Affordable It Has Ever Been?
+Opens in a new window
+
+www66.statcan.gc.ca
+higher than the $65 average in 1961. The average rent recorded in rural areas, $71, was much lower than the $122 in urban agglom
+Opens in a new window
+
+nesto.ca
+A Look Into The History Of Renting Vs. Buying In Canada - nesto.ca
+Opens in a new window
+
+wowa.ca
+Canada Mortgage Rates History (1975 to 2026) - WOWA.ca
+Opens in a new window
+
+policyalternatives.ca
+Canada's Housing Bubble - Canadian Centre for Policy Alternatives
+Opens in a new window
+
+kelownarealestate.com
+Canada's House-Price Growth vs Wage Growth: A Historical Look (1981-2025)
+Opens in a new window
+
+in2013dollars.com
+Rent price inflation, 1914→2026
+Opens in a new window
+
+crea.ca
+What You Need to Know About Inflation and Real Estate - CREA
+Opens in a new window
+
+springfinancial.ca
+The Average Home Prices in Canada 2025 - Spring Financial
+Opens in a new window
+
+wowa.ca
+Canadian Housing Market Report Dec. 22nd, 2025 | Interactive Map - WOWA.ca
+Opens in a new window
+
+money.ca
+Rent price growth cooled in 2025, with vacancies on the rise: CMHC
+Opens in a new window
+
+rentals.ca
+May 2025 Rentals.ca Rent Report
+Opens in a new window
+
+cmhc-schl.gc.ca
+2025 Rental Market Report | CMHC
+Opens in a new window
+
+housingforhouston.com
+What is the average cost of rent in Canada? 2025 Market Analysis - Houston Housing Authority
+Opens in a new window
+
+www03.cmhc-schl.gc.ca
+Ontario — Average Rent by Year of Construction by Metropolitan Areas, Census Agglomerations and Cities
+Opens in a new window
+
+www150.statcan.gc.ca
+The Daily — Quarterly rent statistics, first quarter 2019 to first quarter 2025
+Opens in a new window
+
+cmhc-schl.gc.ca
+2025 Mid-Year Rental Market Update - CMHC

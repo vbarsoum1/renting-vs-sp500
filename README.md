@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+  <img src="./renting-sp-banner.jpeg" alt="Rent vs S&P 500 Banner" width="100%" />
 </div>
 
 # Rent vs. S&P 500 Simulator (Ontario)

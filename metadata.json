@@ -1,0 +1,5 @@
+{
+  "name": "Rent vs. S&P 500 Simulator",
+  "description": "A comprehensive financial visualizer comparing real estate investment in Ontario against the S&P 500, leveraging Gemini for market insights.",
+  "requestFramePermissions": []
+}
